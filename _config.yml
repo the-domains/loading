@@ -1,6 +1,6 @@
 name: Loading
 favicon: null
-layout_spectrum: 0.5630837313365191
+layout_spectrum: 1
 typography_spectrum: 0.19001145823858678
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.07161146425642073
-  lightness: 0.5733250824268907
+    - '#ffffff'
+    - '#000000'
+    - '#26ade4'
+    - '#abca49'
+    - '#ec0d8e'
+  brandStrength: 0.5
+  lightness: 0.5625
   saturation: 0.26858418923802674
-  rhythmicContrast: 0.7384806249756366
+  rhythmicContrast: 0.75
 purpose: []
